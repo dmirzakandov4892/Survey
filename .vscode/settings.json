@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/77ec4332-c4e5-4555-aed6-bca4b8075403/resourceGroups/App4071_QA_RG/providers/Microsoft.Web/sites/data-insights-analysis",
+    "appService.deploySubpath": "."
 }
